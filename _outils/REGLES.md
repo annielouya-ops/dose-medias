@@ -25,3 +25,17 @@ Charte éditoriale complète : https://claude.ai/code/artifact/ed81b035-6a03-452
 4. Metricool (brand id 7389635, fuseau America/Cayenne) : createScheduledPost, provider tiktok, media = URLs
    https://raw.githubusercontent.com/annielouya-ops/dose-medias/main/<dossier>/<fichier>, tiktokData.title obligatoire,
    autoAddMusic true pour les carrousels. Créer en BROUILLON (draft true) : Annie valide avant publication.
+
+## Retour d'expérience semaine 1 (13-17 octobre) — règles ajoutées le 18 octobre
+Bilan : 2 136 vues, 32 J'aime, 15 partages, 0 commentaire, 3 abonnés. Meilleurs posts : « DOSE, c'est quoi ? » (548 vues),
+« Matin ou soir ? » (288), « 5 signaux » (229), « Travailler plus ? » (225). Pire : vidéo texte muette « Je lance une méthode » (52).
+- Plus de vidéos texte muettes : uniquement des carrousels (musique automatique), 10 par semaine.
+- Appels à l'action BINAIRES et faciles à commenter : « Tu es plutôt A ou B ? », « Écris 1 ou 2 », « oui ou non ».
+  Ne plus poser de questions intimes ou chiffrées (épuisement, heures travaillées) : personne n'y répond en public.
+- Privilégier les sujets qui ont marché : choix A/B sur l'organisation, check-lists de signaux, idées reçues chiffrées.
+- Face caméra : 2 vidéos par semaine (au lieu de 5), 15 à 20 secondes, filmées au téléphone sans montage, ~20 minutes de tournage.
+  Scripts très courts : 1 phrase d'accroche, 2 ou 3 phrases de corps, 1 question binaire de fin. Annie les publie elle-même
+  depuis l'application TikTok (son tendance), le dimanche à 10 h et à 18 h. Les créneaux du lundi sont remplis par des carrousels
+  préparés dans le lot précédent.
+- Le compte TikTok est probablement personnel : portée et taux de visionnage indisponibles dans Metricool. Le rappeler à Annie
+  tant que ces données manquent (passage en compte professionnel gratuit dans les réglages TikTok).
