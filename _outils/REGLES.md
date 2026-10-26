@@ -39,3 +39,17 @@ Bilan : 2 136 vues, 32 J'aime, 15 partages, 0 commentaire, 3 abonnés. Meilleurs
   préparés dans le lot précédent.
 - Le compte TikTok est probablement personnel : portée et taux de visionnage indisponibles dans Metricool. Le rappeler à Annie
   tant que ces données manquent (passage en compte professionnel gratuit dans les réglages TikTok).
+
+## Retour d'expérience semaine 2 (19-26 octobre) — bilan du 26 octobre
+Bilan (Metricool, 10 carrousels publiés du 19 au 23) : 2 119 vues (212 par post, contre 178 en semaine 1), 18 J'aime, 5 partages,
+0 commentaire, abonnés 3 → 7 (+4, dernier relevé le 22/10). Portée et taux de visionnage toujours indisponibles (compte personnel).
+Meilleurs : « La règle des 2 minutes » (360 vues, 5 J'aime), « Tu portes tout seul ? » (320), « 5 signes que ton agenda te dirige » (251).
+Pires : « Tes mails : A ou B ? » (55), « Ce que DOSE ne sera pas » (132), « Le multitâche » (167).
+INCIDENT : les 2 posts du samedi 24/10 (« Dormir moins », « Couper le week-end ») ont échoué : « You have reached your Metricool account limit »
+(plan gratuit, environ 20 posts programmés par mois). Ils restent inédits et réutilisables.
+- Leçon : les règles et méthodes nommées et les check-lists « X signes que… » marchent le mieux ; les profils A/B et les coulisses
+  « déclaratives » sur DOSE marchent moins bien. Les CTA binaires ne génèrent toujours aucun commentaire : tester un vote qui a une
+  conséquence (« c'est toi qui choisis le prochain sujet ») et demander à Annie de répondre elle-même aux premiers commentaires.
+- Rythme actuel (+4 abonnés par semaine) très loin de l'objectif de 5 000 fin décembre : il faudra des formats plus viraux
+  (face caméra, tendances) et/ou de la promotion, pas seulement plus de carrousels.
+- Quota Metricool : 12 posts par semaine dépassent le plan gratuit. Vérifier le quota avant chaque lot.

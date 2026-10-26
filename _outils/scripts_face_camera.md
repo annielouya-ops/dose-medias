@@ -27,3 +27,14 @@ Scripts non archivés dans ce dépôt (rédigés dans une session précédente).
 - Accroche : « Un bon patron est toujours joignable. Faux. »
 - Corps : « Un patron toujours joignable, c'est une entreprise qui ne sait rien décider sans lui. Deux heures sans téléphone, c'est déjà un bon test. »
 - Fin : « Tu as déjà tenu deux heures sans le regarder ? Oui ou non. »
+
+## Semaine 3 — à tourner samedi 31/10, publier dimanche 1er/11
+### Dim 1er · 10 h · Énergie du dirigeant — « Juste pour voir »
+- Accroche : « Tu ouvres tes mails le dimanche "juste pour voir" ? Ce n'est jamais juste pour voir. »
+- Corps : « Un mail lu, c'est un problème qui te suit jusqu'à lundi. Ta tête se remet au travail sans que tu l'aies décidé. Aujourd'hui, boîte mail fermée jusqu'à demain matin. »
+- Fin : « Tu tiens jusqu'à lundi ? Oui ou non en commentaire. »
+
+### Dim 1er · 18 h · Juste dose — « Ta première heure »
+- Accroche : « Demain matin, ta première heure va décider de toute ta semaine. »
+- Corps : « Ne la donne pas à tes mails. Garde-la pour la seule tâche qui ferait vraiment avancer ta boîte. Une seule. »
+- Fin : « Demain, tu commences par tes mails ou par ta priorité ? Écris A ou B. »
