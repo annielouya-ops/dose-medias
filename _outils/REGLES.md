@@ -53,3 +53,14 @@ INCIDENT : les 2 posts du samedi 24/10 (« Dormir moins », « Couper le week-en
 - Rythme actuel (+4 abonnés par semaine) très loin de l'objectif de 5 000 fin décembre : il faudra des formats plus viraux
   (face caméra, tendances) et/ou de la promotion, pas seulement plus de carrousels.
 - Quota Metricool : 12 posts par semaine dépassent le plan gratuit. Vérifier le quota avant chaque lot.
+
+## Décision du 1er novembre — forfait gratuit Metricool (20 publications par mois)
+- Annie reste sur le forfait gratuit : 1 carrousel par jour, du lundi au vendredi à 18 h (environ 20 par mois). Rien le samedi ;
+  le dimanche reste réservé aux 2 vidéos face caméra publiées par Annie depuis TikTok (hors Metricool).
+- Programmé le 1er/11 (validé par Annie) : 2/11 patron-ne-sarrete-jamais (marine), 3/11 pauses (crème), 4/11 goulot (sauge),
+  5/11 urgent-ou-important (marine), 6/11 couper-le-week-end (crème), 9/11 piloter-ou-subir (sauge), 10/11 loi-de-parkinson (marine),
+  11/11 c'est-toi-qui-choisis (crème), 12/11 voleurs-energie (sauge), 13/11 dormir-moins (marine). 10 posts sur 20 en novembre.
+- En stock, validés, encore en brouillon dans Metricool : fermer-ta-journee et dose-en-3-mots (crème), dire-non et to-do-irrealiste (sauge),
+  dirigeant-gere-seul et tout-est-important (marine). Ils couvrent la semaine du 16 au 20/11 (+1). Ne pas recréer de lot de 12 :
+  préparer seulement ce qui manque, en tenant compte du quota restant du mois.
+- Le vote « C'est toi qui choisis » (11/11) promet le sujet gagnant la semaine suivante : le prévoir dans le lot du 16/11.
