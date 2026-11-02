@@ -38,3 +38,14 @@ Scripts non archivés dans ce dépôt (rédigés dans une session précédente).
 - Accroche : « Demain matin, ta première heure va décider de toute ta semaine. »
 - Corps : « Ne la donne pas à tes mails. Garde-la pour la seule tâche qui ferait vraiment avancer ta boîte. Une seule. »
 - Fin : « Demain, tu commences par tes mails ou par ta priorité ? Écris A ou B. »
+
+## Semaine 4 — à tourner samedi 7/11, publier dimanche 8/11
+### Dim 8 · 10 h · Juste dose — « La règle des 24 heures »
+- Accroche : « On te demande un service ? Ne réponds pas tout de suite. »
+- Corps : « C'est la règle des 24 heures. Tu dis : "Je te réponds demain." Et tu décides au calme, pas sous la pression. Un oui donné à chaud, c'est ta semaine qui part sans toi. »
+- Fin : « Toi, tu réponds tout de suite ou le lendemain ? Écris A ou B. »
+
+### Dim 8 · 18 h · Énergie du dirigeant — « Ton dimanche soir, c'est déjà lundi »
+- Accroche : « 3 signes que ton dimanche soir, c'est déjà lundi. »
+- Corps : « Un : tu refais ta to-do dans ta tête. Deux : tu regardes ton agenda avant de dormir. Trois : tu réponds à un message "vite fait". Ce soir, ta semaine peut attendre demain matin. »
+- Fin : « Tu en coches au moins un ? Oui ou non. »

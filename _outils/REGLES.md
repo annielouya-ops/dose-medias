@@ -64,3 +64,18 @@ INCIDENT : les 2 posts du samedi 24/10 (« Dormir moins », « Couper le week-en
   dirigeant-gere-seul et tout-est-important (marine). Ils couvrent la semaine du 16 au 20/11 (+1). Ne pas recréer de lot de 12 :
   préparer seulement ce qui manque, en tenant compte du quota restant du mois.
 - Le vote « C'est toi qui choisis » (11/11) promet le sujet gagnant la semaine suivante : le prévoir dans le lot du 16/11.
+
+## Retour d'expérience semaine 3 (26 octobre - 1er novembre) — bilan du 2 novembre
+Bilan : 0 post publié. Dernier post en ligne : 23/10. Les 2 posts du 26/10 ont échoué (quota), le lot du 27/10 est resté en brouillon jusqu'à
+la décision du 1er/11. Donc 0 vue, 0 J'aime, 0 partage, 0 commentaire sur la semaine. Abonnés : inconnu, dernier relevé 7 le 22/10.
+Cumul des 20 posts du 13 au 23/10 : 4 262 vues (213 par post), 51 J'aime, 21 partages, 0 commentaire. Meilleurs : « DOSE, c'est quoi ? » (548),
+« La règle des 2 minutes » (360), « Tu portes tout seul ? » (320). Pires : vidéo muette « Je lance une méthode » (56), « Tes mails : A ou B ? » (55*), « Ce que DOSE ne sera pas » (132*).
+- Quota confirmé : 20 posts publiés en octobre, échec dès le 21e (24/10). La limite s'applique à la publication, pas à la création du brouillon.
+- ALERTE DONNÉES : Metricool n'a aucune donnée d'évolution du 24/10 au 1er/11, et les vues de chaque post de la semaine 2 sont strictement identiques
+  au relevé du 26/10. La synchronisation semble figée depuis le 23/10 environ. *Les chiffres du 23/10 ont sans doute été relevés quelques heures après
+  publication : ne pas en conclure que les A/B ou les coulisses échouent. À revérifier dans l'application TikTok.
+- Aucune vidéo face caméra n'apparaît dans Metricool (18/10, 25/10, 1er/11) : à confirmer avec Annie (non publiées, ou non remontées).
+- Leçon : 10 jours de silence sont le pire scénario pour l'algorithme. Vérifier chaque lundi que le post suivant est bien programmé (draft false),
+  pas seulement en brouillon. Pas de nouveau lot sans nouvelles données : attendre les chiffres des posts de novembre avant de produire.
+- Lot du 2/11 : aucun carrousel créé (règle du 1er/11). Planning complet jusqu'au 13/11, stock de 6 jusqu'au 23/11. Quota novembre : 10 engagés, 6 en stock,
+  4 places libres pour le 24-27/11, dont le sujet gagnant du vote du 11/11.
