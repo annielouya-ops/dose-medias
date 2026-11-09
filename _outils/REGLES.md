@@ -79,3 +79,21 @@ Cumul des 20 posts du 13 au 23/10 : 4 262 vues (213 par post), 51 J'aime, 21 par
   pas seulement en brouillon. Pas de nouveau lot sans nouvelles données : attendre les chiffres des posts de novembre avant de produire.
 - Lot du 2/11 : aucun carrousel créé (règle du 1er/11). Planning complet jusqu'au 13/11, stock de 6 jusqu'au 23/11. Quota novembre : 10 engagés, 6 en stock,
   4 places libres pour le 24-27/11, dont le sujet gagnant du vote du 11/11.
+
+## Retour d'expérience semaine 4 (2-8 novembre) — bilan du 9 novembre
+Publiés (Metricool, statut « Published ») : 5 carrousels à 18 h, du 2 au 6/11 (patron-ne-sarrete-jamais, pauses, goulot, urgent-ou-important,
+couper-le-week-end). Le planning a tenu : fin des 10 jours de silence.
+Chiffres : AUCUNE donnée dans Metricool pour ces 5 posts (vues, J'aime, partages, commentaires vides) et aucune donnée d'évolution des abonnés
+depuis le 22/10 (dernier relevé : 7). La publication fonctionne, mais la synchronisation des statistiques TikTok est bloquée depuis le 23/10 :
+impossible d'identifier les meilleurs et pires posts de la semaine ni de savoir si les CTA binaires génèrent des commentaires.
+- Action demandée à Annie : reconnecter le compte TikTok dans Metricool (Réglages > Connexions) et passer le compte en professionnel ; en attendant,
+  relever à la main dans l'application TikTok les vues, commentaires et abonnés des 5 posts et du vote du 11/11.
+- Leçon : sans données, on continue sur les formats qui marchaient en octobre (règles nommées, check-lists « X signes / X questions », idées reçues chiffrées).
+
+## Lot du 9 novembre — planning 16-27/11 (forfait gratuit, 20 posts en novembre)
+- Stock validé, remis en brouillon aux nouvelles dates (rotation après dormir-moins marine du 13/11) : 16 fermer-ta-journee (crème), 17 to-do-irrealiste (sauge),
+  19 dose-en-3-mots (crème), 20 dire-non (sauge), 23 tout-est-important (marine), 26 dirigeant-gere-seul (marine).
+- Nouveaux brouillons : 18/11 deleguer-sans-tout-perdre (marine, option 1 du vote), 24 dose-fait-le-poison (crème), 25 avant-une-reunion (sauge),
+  27 syndrome-imposteur (crème). 1er/12 tete-qui-tourne-le-soir (marine, option 2 du vote, gardée pour décembre).
+- SI L'OPTION 2 GAGNE LE VOTE : échanger les dates des deux posts (18/11 <-> 1er/12) et reprendre la phrase « Tu l'as choisi en commentaire » dans la légende du 18/11.
+- Novembre = 20 publications avec ce planning : rien le 30/11.

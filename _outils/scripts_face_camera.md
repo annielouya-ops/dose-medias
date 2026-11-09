@@ -49,3 +49,14 @@ Scripts non archivés dans ce dépôt (rédigés dans une session précédente).
 - Accroche : « 3 signes que ton dimanche soir, c'est déjà lundi. »
 - Corps : « Un : tu refais ta to-do dans ta tête. Deux : tu regardes ton agenda avant de dormir. Trois : tu réponds à un message "vite fait". Ce soir, ta semaine peut attendre demain matin. »
 - Fin : « Tu en coches au moins un ? Oui ou non. »
+
+## Semaine 5 — à tourner samedi 14/11, publier dimanche 15/11
+### Dim 15 · 10 h · Juste dose — « Vite fait »
+- Accroche : « Le mot qui te coûte le plus d'heures dans ta semaine ? "Vite fait." »
+- Corps : « Un appel vite fait, un devis vite fait, un mail vite fait. Rien n'est jamais vite fait : chaque interruption te sort de ce que tu faisais. Cette semaine, chaque "vite fait" va dans un créneau. »
+- Fin : « Tu dis "vite fait" plus de 3 fois par jour ? Oui ou non. »
+
+### Dim 15 · 18 h · Coulisses — « Le résultat du vote » (⚠ propos à la 1re personne, à vérifier)
+- Accroche : « Mercredi, je t'ai laissé choisir le prochain sujet. Le résultat est tombé. »
+- Corps : « Il sort ce mercredi à 18 h, avec une méthode simple à appliquer dès le lendemain. Et si ça te plaît, la prochaine fois, c'est encore toi qui choisis. »
+- Fin : « On refait un vote la semaine prochaine ? Oui ou non. »

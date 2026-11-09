@@ -1,0 +1,119 @@
+{
+ "nouveaux": [
+  {
+   "id": "n01",
+   "slug": "2026-11-18_deleguer-sans-tout-perdre",
+   "date": "2026-11-18T18:00:00",
+   "theme": "marine",
+   "pilier": "Juste dose",
+   "title": "Déléguer sans tout perdre",
+   "text": "Tu l'as choisi en commentaire : déléguer sans tout perdre. 4 étapes pour lâcher une tâche sans lâcher le contrôle de ta boîte. Tu délègues déjà une tâche par semaine ? Oui ou non ?\n\n#delegation #organisation #entrepreneur #chefdentreprise #tpe #justedose",
+   "n": 7,
+   "metricool_id": 421647785,
+   "metricool_uuid": "3545260948804421514",
+   "statut": "brouillon (en attente de validation d'Annie)"
+  },
+  {
+   "id": "n02",
+   "slug": "2026-12-01_tete-qui-tourne-le-soir",
+   "date": "2026-12-01T18:00:00",
+   "theme": "marine",
+   "pilier": "Énergie du dirigeant",
+   "title": "Ta tête tourne encore à minuit ?",
+   "text": "Ta tête refait ta journée au moment de dormir ? Dans une étude, écrire sa to-do du lendemain pendant 5 minutes a aidé à s'endormir plus vite. Tu as un carnet près de ton lit ? Oui ou non ?\n\n#sommeil #energie #entrepreneur #chefdentreprise #tpe #justedose",
+   "n": 7,
+   "metricool_id": 421647826,
+   "metricool_uuid": "7553356549022172283",
+   "statut": "brouillon (en attente de validation d'Annie)"
+  },
+  {
+   "id": "n03",
+   "slug": "2026-11-24_dose-fait-le-poison",
+   "date": "2026-11-24T18:00:00",
+   "theme": "creme",
+   "pilier": "Juste dose",
+   "title": "C'est la dose qui fait le poison",
+   "text": "« C'est la dose qui fait le poison. » Paracelse l'écrivait en 1538, et ça vaut pour ta semaine de dirigeant. Ta dose de travail cette semaine : A (juste dose) ou B (overdose) ?\n\n#equilibre #energie #entrepreneur #chefdentreprise #tpe #justedose",
+   "n": 6,
+   "metricool_id": 421647860,
+   "metricool_uuid": "-6857919482472283132",
+   "statut": "brouillon (en attente de validation d'Annie)"
+  },
+  {
+   "id": "n04",
+   "slug": "2026-11-25_avant-une-reunion",
+   "date": "2026-11-25T18:00:00",
+   "theme": "sauge",
+   "pilier": "Juste dose",
+   "title": "4 questions avant d'accepter une réunion",
+   "text": "Les réunions inefficaces arrivent en tête des freins à la productivité dans l'enquête Microsoft 2023. 4 questions à te poser avant d'en accepter une. Tu as une réunion de trop cette semaine ? Oui ou non ?\n\n#reunion #organisation #entrepreneur #chefdentreprise #tpe #justedose",
+   "n": 7,
+   "metricool_id": 421647891,
+   "metricool_uuid": "2030708442972572635",
+   "statut": "brouillon (en attente de validation d'Annie)"
+  },
+  {
+   "id": "n05",
+   "slug": "2026-11-27_syndrome-imposteur",
+   "date": "2026-11-27T18:00:00",
+   "theme": "creme",
+   "pilier": "Dose de réalité",
+   "title": "Imposteur dans ta propre boîte ?",
+   "text": "Réussir et avoir l'impression de ne pas le mériter : le phénomène de l'imposteur a un nom depuis 1978, et tu es loin d'être seul. Tu l'as déjà ressenti ? Oui ou non ?\n\n#syndromedelimposteur #confiance #entrepreneur #chefdentreprise #tpe #justedose",
+   "n": 6,
+   "metricool_id": 421647915,
+   "metricool_uuid": "518410218997760737",
+   "statut": "brouillon (en attente de validation d'Annie)"
+  }
+ ],
+ "stock_redate": [
+  {
+   "date": "2026-11-16T18:00:00",
+   "theme": "creme",
+   "slug": "fermer-ta-journee",
+   "metricool_id": 421648676,
+   "metricool_uuid": "-2669587014215381234",
+   "statut": "brouillon validé le 1er/11, date à confirmer"
+  },
+  {
+   "date": "2026-11-17T18:00:00",
+   "theme": "sauge",
+   "slug": "to-do-irrealiste",
+   "metricool_id": 421648689,
+   "metricool_uuid": "-674314639942399986",
+   "statut": "brouillon validé le 1er/11, date à confirmer"
+  },
+  {
+   "date": "2026-11-19T18:00:00",
+   "theme": "creme",
+   "slug": "dose-en-3-mots",
+   "metricool_id": 421648703,
+   "metricool_uuid": "-7793947365687672366",
+   "statut": "brouillon validé le 1er/11, date à confirmer"
+  },
+  {
+   "date": "2026-11-20T18:00:00",
+   "theme": "sauge",
+   "slug": "dire-non",
+   "metricool_id": 421648744,
+   "metricool_uuid": "1410556557226952747",
+   "statut": "brouillon validé le 1er/11, date à confirmer"
+  },
+  {
+   "date": "2026-11-23T18:00:00",
+   "theme": "marine",
+   "slug": "tout-est-important",
+   "metricool_id": 421648781,
+   "metricool_uuid": "7474768700389739366",
+   "statut": "brouillon validé le 1er/11, date à confirmer"
+  },
+  {
+   "date": "2026-11-26T18:00:00",
+   "theme": "marine",
+   "slug": "dirigeant-gere-seul",
+   "metricool_id": 421648793,
+   "metricool_uuid": "625411322421988255",
+   "statut": "brouillon validé le 1er/11, date à confirmer"
+  }
+ ]
+}
