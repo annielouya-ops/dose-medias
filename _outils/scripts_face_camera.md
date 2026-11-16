@@ -60,3 +60,14 @@ Scripts non archivés dans ce dépôt (rédigés dans une session précédente).
 - Accroche : « Mercredi, je t'ai laissé choisir le prochain sujet. Le résultat est tombé. »
 - Corps : « Il sort ce mercredi à 18 h, avec une méthode simple à appliquer dès le lendemain. Et si ça te plaît, la prochaine fois, c'est encore toi qui choisis. »
 - Fin : « On refait un vote la semaine prochaine ? Oui ou non. »
+
+## Semaine 6 — à tourner samedi 21/11, publier dimanche 22/11
+### Dim 22 · 10 h · Dose de réalité — « Les vacances, plus tard »
+- Accroche : « "Je prendrai des vacances quand ma boîte tournera sans moi." Tu connais cette phrase ? »
+- Corps : « C'est l'inverse. C'est en partant quelques jours que tu découvres ce qui ne tourne que grâce à toi. Et c'est exactement ça qu'il faut régler en premier. »
+- Fin : « Tu as prévu de vraies vacances en décembre ? Oui ou non. »
+
+### Dim 22 · 18 h · Énergie du dirigeant — « Une pause, pas un café »
+- Accroche : « 3 signes que tu as besoin d'une pause, pas d'un troisième café. »
+- Corps : « Un : tu relis trois fois la même phrase. Deux : tu t'agaces pour un rien. Trois : tu repousses une décision simple. Dix minutes dehors te rendront plus que ce café. »
+- Fin : « Toi, c'est plutôt café ou pause ? Écris A ou B. »

@@ -97,3 +97,14 @@ impossible d'identifier les meilleurs et pires posts de la semaine ni de savoir 
   27 syndrome-imposteur (crème). 1er/12 tete-qui-tourne-le-soir (marine, option 2 du vote, gardée pour décembre).
 - SI L'OPTION 2 GAGNE LE VOTE : échanger les dates des deux posts (18/11 <-> 1er/12) et reprendre la phrase « Tu l'as choisi en commentaire » dans la légende du 18/11.
 - Novembre = 20 publications avec ce planning : rien le 30/11.
+
+## Retour d'expérience semaine 5 (9-15 novembre) — bilan du 16 novembre
+Publiés (Metricool, statut « Published ») : 5 carrousels à 18 h, du 9 au 13/11 (piloter-ou-subir, loi-de-parkinson, c'est-toi-qui-choisis,
+voleurs-energie, dormir-moins). 10 posts publiés en novembre, 0 échec.
+Chiffres : toujours AUCUNE donnée dans Metricool (vues, J'aime, partages, commentaires vides pour les 10 posts de novembre ; aucune évolution
+des abonnés depuis le 22/10, dernier relevé 7). Résultat du vote du 11/11 et efficacité des CTA binaires : impossibles à mesurer d'ici.
+ALERTE PLANNING : au 16/11 à l'ouverture, les 11 posts du lot du 9/11 (16-27/11 et 1er/12) sont TOUS encore en brouillon (draft true) :
+sans validation d'Annie, rien n'est publié à partir du 16/11 à 18 h. Notification envoyée le 16/11.
+- Aucun nouveau lot créé le 16/11 : novembre est plein (20 publications prévues, forfait gratuit) et aucune donnée nouvelle.
+  Prochain besoin : décembre (2-4/12 puis à partir du 7/12), à préparer le 23/11 ou le 30/11 selon le quota et les chiffres.
+- Leçon : la validation d'Annie est devenue le goulot. Lui demander de valider les lots par blocs (ou d'autoriser la programmation du stock déjà validé).
