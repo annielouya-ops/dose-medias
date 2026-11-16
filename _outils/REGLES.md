@@ -108,3 +108,4 @@ sans validation d'Annie, rien n'est publié à partir du 16/11 à 18 h. Notifica
 - Aucun nouveau lot créé le 16/11 : novembre est plein (20 publications prévues, forfait gratuit) et aucune donnée nouvelle.
   Prochain besoin : décembre (2-4/12 puis à partir du 7/12), à préparer le 23/11 ou le 30/11 selon le quota et les chiffres.
 - Leçon : la validation d'Annie est devenue le goulot. Lui demander de valider les lots par blocs (ou d'autoriser la programmation du stock déjà validé).
+- 16/11 à 12 h : Annie a répondu « validé ». Les 11 posts (16-27/11 et 1er/12) sont passés en programmé (draft false) dans Metricool.
