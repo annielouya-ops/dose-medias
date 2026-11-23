@@ -82,3 +82,24 @@ Scripts non archivés dans ce dépôt (rédigés dans une session précédente).
 - Accroche : « Avant de dire oui à un nouveau projet en décembre, pose-toi une seule question. »
 - Corps : « Est-ce que ça peut attendre janvier ? Si la réponse est oui, note-le, et laisse-le partir. Ton mois de décembre n'a pas besoin d'un projet de plus. »
 - Fin : « Ton dernier projet en date, il peut attendre janvier ? Oui ou non. »
+
+## Semaine 8 — à tourner samedi 5/12, publier dimanche 6/12 (demandés par Annie le 23/11)
+### Dim 6 · 10 h · Dose de réalité — « Occupé ou utile ? »
+- Accroche : « Une journée pleine n'est pas une journée utile. »
+- Corps : « Tu peux répondre à cinquante messages et ne pas avoir avancé d'un millimètre. Ce soir, pose-toi une seule question : qu'est-ce que j'ai fait aujourd'hui qui fera grandir ma boîte ? »
+- Fin : « Ta journée d'hier : occupée ou utile ? Écris A ou B. »
+
+### Dim 6 · 18 h · Coulisses — « Le vote se termine » (⚠ propos à la 1re personne, à vérifier)
+- Accroche : « Jeudi, je t'ai demandé de choisir le prochain sujet. »
+- Corps : « Ton téléphone le soir, ou ta semaine préparée en 15 minutes. Le gagnant sort ce jeudi à 18 h. Si tu n'as pas encore voté, écris 1 ou 2 sous le post de jeudi dernier. »
+- Fin : « Tu as déjà voté ? Oui ou non. »
+
+### En réserve · Énergie du dirigeant — « Ton dernier rendez-vous »
+- Accroche : « Ton dernier rendez-vous de la journée décide de ta soirée. »
+- Corps : « S'il finit à 19 h, tu rentres avec lui dans la tête. Cette semaine, arrête les rendez-vous une heure avant ta fin de journée, et garde cette heure pour fermer tes dossiers. »
+- Fin : « Ton dernier rendez-vous finit après 18 h ? Oui ou non. »
+
+### En réserve · Dose de réalité — « Personne ne le fera »
+- Accroche : « "Si je ne le fais pas, personne ne le fera." Tu connais cette phrase ? »
+- Corps : « Parfois, c'est vrai. Mais souvent, c'est que personne n'a jamais eu l'occasion d'essayer. Cette semaine, laisse quelqu'un le faire à sa façon. »
+- Fin : « Tu l'as déjà dite cette semaine ? Oui ou non. »
