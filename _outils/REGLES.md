@@ -126,3 +126,4 @@ Meilleurs / pires posts, vote du 11/11, effet des CTA binaires : impossibles à 
 - 23/11 : Annie a validé. Les 5 posts (2-8/12) sont passés en programmé (draft false).
 - Relevé manuel d'Annie dans TikTok le 23/11 : 10 abonnés, 98 J'aime au total (contre 7 abonnés et 51 J'aime relevés par Metricool le 22-23/10).
   Soit +3 abonnés et environ +47 J'aime en un mois : le rythme reste très loin de l'objectif de 5 000 fin décembre.
+- 23/11 : Annie a tourné à l'avance les 4 vidéos face caméra (Occupé ou utile, Le vote se termine, Ton dernier rendez-vous, Personne ne le fera). Les deux de réserve peuvent sortir le samedi, créneau vide.
