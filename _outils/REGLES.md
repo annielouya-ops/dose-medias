@@ -109,3 +109,17 @@ sans validation d'Annie, rien n'est publié à partir du 16/11 à 18 h. Notifica
   Prochain besoin : décembre (2-4/12 puis à partir du 7/12), à préparer le 23/11 ou le 30/11 selon le quota et les chiffres.
 - Leçon : la validation d'Annie est devenue le goulot. Lui demander de valider les lots par blocs (ou d'autoriser la programmation du stock déjà validé).
 - 16/11 à 12 h : Annie a répondu « validé ». Les 11 posts (16-27/11 et 1er/12) sont passés en programmé (draft false) dans Metricool.
+
+## Retour d'expérience semaine 6 (16-22 novembre) — bilan du 23 novembre
+Publiés (Metricool, statut « Published ») : 5 carrousels à 18 h, du 16 au 20/11 (fermer-ta-journee, to-do-irrealiste, deleguer-sans-tout-perdre,
+dose-en-3-mots, dire-non). 15 posts publiés en novembre, 0 échec. Le 23/11 (tout-est-important) et 24-27/11 + 1er/12 sont programmés (draft false).
+Chiffres : toujours AUCUNE donnée dans Metricool (vues, J'aime, partages, commentaires vides pour les 15 posts de novembre ; abonnés : dernier relevé 7 le 22/10).
+Meilleurs / pires posts, vote du 11/11, effet des CTA binaires : impossibles à mesurer depuis Metricool, 5e semaine consécutive sans statistiques.
+- Leçon : sans données on vole à l'aveugle vers l'objectif de 5 000 ; la reconnexion TikTok dans Metricool (ou un relevé manuel par Annie) devient prioritaire
+  sur la production de contenus. On garde les formats qui marchaient en octobre (check-lists, méthodes nommées, idées reçues chiffrées, vote avec conséquence).
+
+## Lot du 23 novembre — planning 2-8/12 (forfait gratuit : 1er/12 déjà programmé, 6 posts engagés sur 20 en décembre)
+- Brouillons : 2/12 decembre-sur-la-reserve (sauge, Énergie), 3/12 vote-sujet-de-decembre (crème, Coulisses, VOTE 1 = téléphone le soir / 2 = ta semaine en 15 min),
+  4/12 methode-pomodoro (marine, Juste dose), 7/12 bilan-2026-en-4-questions (sauge, Juste dose), 8/12 stress-ca-motive (crème, Dose de réalité).
+- Rotation : après 27/11 crème et 1er/12 marine, le crème « normal » du 2/12 aurait donné crème-marine-crème. Suite choisie : sauge, crème, marine, sauge, crème.
+- LE SUJET GAGNANT DU VOTE DU 3/12 DOIT SORTIR LE JEUDI 10/12 À 18 H (promis sur le visuel) : à préparer dans le lot du 30/11, le perdant gardé pour plus tard.

@@ -71,3 +71,14 @@ Scripts non archivés dans ce dépôt (rédigés dans une session précédente).
 - Accroche : « 3 signes que tu as besoin d'une pause, pas d'un troisième café. »
 - Corps : « Un : tu relis trois fois la même phrase. Deux : tu t'agaces pour un rien. Trois : tu repousses une décision simple. Dix minutes dehors te rendront plus que ce café. »
 - Fin : « Toi, c'est plutôt café ou pause ? Écris A ou B. »
+
+## Semaine 7 — à tourner samedi 28/11, publier dimanche 29/11
+### Dim 29 · 10 h · Énergie du dirigeant — « Décembre, bloque-toi d'abord »
+- Accroche : « Décembre, c'est le mois où tu cours le plus et où tu te reposes le moins. »
+- Corps : « Avant que ton agenda se remplisse, bloque deux demi-journées pour toi. Pas pour rattraper ton retard : pour souffler. Si ce n'est pas dans l'agenda, ça n'existe pas. »
+- Fin : « Tu bloques ta demi-journée cette semaine ? Oui ou non. »
+
+### Dim 29 · 18 h · Juste dose — « Ça peut attendre janvier ? »
+- Accroche : « Avant de dire oui à un nouveau projet en décembre, pose-toi une seule question. »
+- Corps : « Est-ce que ça peut attendre janvier ? Si la réponse est oui, note-le, et laisse-le partir. Ton mois de décembre n'a pas besoin d'un projet de plus. »
+- Fin : « Ton dernier projet en date, il peut attendre janvier ? Oui ou non. »
