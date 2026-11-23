@@ -123,3 +123,6 @@ Meilleurs / pires posts, vote du 11/11, effet des CTA binaires : impossibles à 
   4/12 methode-pomodoro (marine, Juste dose), 7/12 bilan-2026-en-4-questions (sauge, Juste dose), 8/12 stress-ca-motive (crème, Dose de réalité).
 - Rotation : après 27/11 crème et 1er/12 marine, le crème « normal » du 2/12 aurait donné crème-marine-crème. Suite choisie : sauge, crème, marine, sauge, crème.
 - LE SUJET GAGNANT DU VOTE DU 3/12 DOIT SORTIR LE JEUDI 10/12 À 18 H (promis sur le visuel) : à préparer dans le lot du 30/11, le perdant gardé pour plus tard.
+- 23/11 : Annie a validé. Les 5 posts (2-8/12) sont passés en programmé (draft false).
+- Relevé manuel d'Annie dans TikTok le 23/11 : 10 abonnés, 98 J'aime au total (contre 7 abonnés et 51 J'aime relevés par Metricool le 22-23/10).
+  Soit +3 abonnés et environ +47 J'aime en un mois : le rythme reste très loin de l'objectif de 5 000 fin décembre.
